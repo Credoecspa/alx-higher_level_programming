@@ -4,8 +4,8 @@
 
 
 class Square:
-        '''Square functions come in here'''
+    '''Square functions come in here'''
 
-            def __init__(self, size):
-                        '''New square gets initalized'''
-                                self.__size = size
+    def __init__(self, size):
+        '''New square gets initalized'''
+        self.__size = size
